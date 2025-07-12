@@ -7,18 +7,16 @@
 </div>
 </br>
 
-💥💥💥The free web version of ChatPaper, which is open to the world and serves thousands of researchers, is officially launched:[https://chatpaper.org/](https://chatpaper.org/) 💥💥💥
+💥💥💥ChatPaperの無料版が、研究者らとそして世界全体に向けて、ついに公式リリース！！:[https://chatpaper.org/](https://chatpaper.org/) 💥💥💥
 
+ArXivにおいて大量に増えていく論文にAIの急速な進歩のペースを合わせるため、私たち人間は進化する必要があります。ユーザーのキーワードに基づき最新の論文をダウンロードし、ChatGPT 3.5のAPIを使った強力な要約能力で、最小限のテキスト形式でありながら、読みやすさを残したまま内容を凝縮させました。皆さんに深く読みたいと思う論文を選んでもらえるよう、ほぼ完全な情報を提供できます。
 
-To keep up with the huge ArXiv papers and AI’s fast progress, we humans need to evolve. We download the latest papers on arxiv based on user keywords, and use ChatGPT3.5 API’s powerful summarization to condense them into a fixed format with minimal text and easy readability. 
-We provide the most information for everyone to choose which papers to read deeply.
-
-## TODO list:
-1. Change all prompts to English.  --completed!
-2. Use a more robust method to parse the Method section.
-3. If there is a brother who wants to build a website, we can cooperate. --completed!
-4. Implement a ChatReview version for everyone to refer to when reviewing (but there may be academic ethics issues?)
-5. Output English mode! just set lauguage as "en"!
+## TODOリスト:
+1. 全てのプロンプトを英語にする  --完了!
+2. メソッドセクションを詳細に解析するため、より頑強な（ロバストな）方法を採用する
+3. もしWebサイト化したい方がいれば、協力して作りましょう --完了!
+4. 論文のレビューをする人たちのため、ChatReviewを実装する（教育倫理的な問題があるかも?）
+5. 英語版を出力する。言語設定を"en"にするだけ!
 
 ## Motivation
 
